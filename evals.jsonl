@@ -1,0 +1,3 @@
+{"question":"What is the standard warranty?","expected_sources":["warranty.md"]}
+{"question":"When is technical support open?","expected_sources":["support.md"]}
+{"question":"Is an extended warranty automatic?","expected_sources":["warranty.md"]}

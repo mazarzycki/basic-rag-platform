@@ -1,0 +1,7 @@
+numpy
+sentence-transformers
+pypdf
+openai
+python-dotenv
+requests
+pytest
